@@ -5,7 +5,7 @@
 
 
 ## 📄 Overview
-This project analyzes survey data from data professionals to uncover trends in salaries, demographics, career transitions, and education. Using **Python**, **pandas**, **matplotlib**, and **seaborn**, we cleaned and explored the dataset to answer key business questions and present actionable insights.
+This project analyzes survey data from data professionals to uncover trends in salaries, demographics, career transitions, and education. Using **Python**, **pandas**, **matplotlib**, and **seaborn**, I cleaned and explored the dataset to answer key business questions and present actionable insights.
 
 
 ## 🎯 Goals
