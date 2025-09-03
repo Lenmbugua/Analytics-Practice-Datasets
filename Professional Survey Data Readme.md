@@ -1,7 +1,7 @@
 # 🧑‍💻 Data Professional Survey Analysis (Python)
 
 > A clean, end-to-end data analysis project using Python and Jupyter Notebook.  
-> This project explores a real survey of data professionals, uncovering salary trends, gender pay gaps, career switching patterns, and education insights — all documented with visualizations, code, and conclusions.
+> This project explores a real survey of data professionals, uncovering salary trends, gender pay gaps, career switching patterns, and education insights all documented with visualizations, code, and conclusions.
 
 
 ## 📄 Overview
