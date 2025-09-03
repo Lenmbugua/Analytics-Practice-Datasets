@@ -46,18 +46,18 @@ This project analyzes survey data from data professionals to uncover trends in s
 
 ## ❓ Questions Answered & Functions Used
 
-Below are the key questions explored, along with the main pandas/matplotlib/seaborn functions we used:
+Below are the key questions explored, along with the main pandas/matplotlib/seaborn functions I used:
 
-1  What is the average, median, and count of salaries by job title? -used the function; groupby()`, `agg(['mean','median','count']) 
-2 How does salary differ by education level? -used the function; groupby()`, `mean()`, `plt.bar`, `plt.barh 
-3 Is there a gender pay gap controlling for role? -used the function; (['Role','Gender'])`, `mean()`, pivoting, `plt.bar`, `plt.pie 
-4 What percentage of respondents switched careers into data? -used the function; value_counts(normalize=True)`, `plt.pie (donut) 
-5 Which roles or backgrounds made entry easier or harder? -used the function; pd.crosstab()`, `sns.heatmap 
-6 What is the distribution of salaries per role?  -used the function; sns.boxplot 
-7 How does highest level of education vary across roles? -used the function; groupby()`, `count()`, stacked `plt.bar 
-8 What is the gender distribution across data roles? -used the function; groupby()`, `size()`, `plt.bar`, `plt.pie 
-9 Which industries or organization types employ the most data professionals? -used the function; value_counts()`, `plt.bar 
-10 Are there regional differences in pay or roles? -used the function; groupby(['Country'])`, `mean()`, `plt.bar
+|1|  What is the average, median, and count of salaries by job title? -used the function; groupby()`, `agg(['mean','median','count']) 
+|2| How does salary differ by education level? -used the function; groupby()`, `mean()`, `plt.bar`, `plt.barh 
+|3| Is there a gender pay gap controlling for role? -used the function; (['Role','Gender'])`, `mean()`, pivoting, `plt.bar`, `plt.pie 
+|4| What percentage of respondents switched careers into data? -used the function; value_counts(normalize=True)`, `plt.pie (donut) 
+|5| Which roles or backgrounds made entry easier or harder? -used the function; pd.crosstab()`, `sns.heatmap 
+|6| What is the distribution of salaries per role?  -used the function; sns.boxplot 
+|7| How does highest level of education vary across roles? -used the function; groupby()`, `count()`, stacked `plt.bar 
+|8| What is the gender distribution across data roles? -used the function; groupby()`, `size()`, `plt.bar`, `plt.pie 
+|9| Which industries or organization types employ the most data professionals? -used the function; value_counts()`, `plt.bar 
+|10| Are there regional differences in pay or roles? -used the function; groupby(['Country'])`, `mean()`, `plt.bar
 
 ### 🧰 Function Highlights
 - **Data Cleaning**
